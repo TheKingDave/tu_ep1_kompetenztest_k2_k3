@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Theory {
+public class Theoryk3 {
 
     private static final int NOT_FOUND = -1;
     private static int calls = 0;

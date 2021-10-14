@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Einstufungstest {
+public class Einstufungstestk3 {
 
     public static void main(String[] args) {
         // 18:34
